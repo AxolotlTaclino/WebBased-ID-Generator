@@ -16,3 +16,7 @@ I want the project to have a simple interface which will allow any company emplo
 I'll be editing the ID template on this public repository for the sake of the company's privacy.
 
 I'm already 80%(?) done with the code while writing this and I'll upload the files as soon as I make sure that the company template has been fully changed.
+
+Edit: Jul-19-2022
+----------------------------------
+I went to my brother's wedding so I wasn't able to make time to edit the template and commit the changes. So today, I decided to just pixelate the company info such as Company name, logo, president and etc. This is so that the structure would be the same as the my previous test. I will then setup the github page for it so that I could test the app online.
